@@ -1,26 +1,42 @@
-<h2>Activity 1 (January 31): Simple Scene with a Moving Node</h2>
+# Activity 1 – Simple Scene with a Moving Node
+**Date:** January 31  
+**Engine:** Godot  
+**Language:** GDScript  
+
+## Description
+This activity demonstrates a simple 3D scene created in **Godot** that showcases basic animation using **GDScript**.
+This activity focuses on understanding:
+- 3D transformations
+- Real-time animation
+- Using mathematical functions for smooth motion
+
+---
+
+## Scene Output
+
+<h3 align="center">Simple Scene with a Moving Node</h3>
 
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/f42e9d02-6aad-4814-a2af-7d97c02902d7" 
-    alt="Scene Overview"
+    alt="Initial Scene"
     width="900"
   />
 </p>
 
-<p align="center"><em>Figure 1. Initial scene layout</em></p>
+<p align="center"><em>Figure 1. Initial 3D scene setup</em></p>
 
 <br>
 
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/3a7a642d-a82f-408f-821e-2d2d071b96fd" 
-    alt="Moving Node in Action"
+    alt="Bouncing Boxes"
     width="900"
   />
 </p>
 
-<p align="center"><em>Figure 2. Node movement during execution</em></p>
+<p align="center"><em>Figure 2. Boxes bouncing during runtime</em></p>
 
 <br>
 
@@ -32,4 +48,4 @@
   />
 </p>
 
-<p align="center"><em>Figure 3. Final rendered scene</em></p>
+<p align="center"><em>Figure 3. Final rendered scene with spinning text</em></p>
